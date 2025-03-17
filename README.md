@@ -5,6 +5,7 @@
 > **🔥 Tüm yoklamalar ayrı tablolar halinde kaydedilir & geriye dönük sorgulanabilir!**  
 
 ---
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fface-recognition%2F956526599412%2F&psig=AOvVaw2qF2op58TitoAt28VhTSB_&ust=1742301506162000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD1uYaRkYwDFQAAAAAdAAAAABAJ
 
 ## 🚀 **Özellikler**
 
