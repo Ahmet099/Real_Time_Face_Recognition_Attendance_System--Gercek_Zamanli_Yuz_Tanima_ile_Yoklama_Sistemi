@@ -5,7 +5,19 @@
 > **🔥 Tüm yoklamalar ayrı tablolar halinde kaydedilir & geriye dönük sorgulanabilir!**  
 
 ---
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fface-recognition%2F956526599412%2F&psig=AOvVaw2qF2op58TitoAt28VhTSB_&ust=1742301506162000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD1uYaRkYwDFQAAAAAdAAAAABAJ
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
+<br><br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</div>
+<br><br>    
+
 
 ## 🚀 **Özellikler**
 
@@ -26,9 +38,13 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Ffa
 - **NumPy** – Matematiksel işlemler için  
 - **SQLite** – **Hafif & entegre veritabanı yönetimi**  
 - **Pandas** – **Verileri analiz etmek & Excel'e aktarmak için**  
-- **OpenPyXL** – **Excel dosyaları oluşturmak için**  
+- **OpenPyXL** – **Excel dosyaları oluşturmak için**
 
----
+<br><br>
+<div align="center">
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+</div>
+<br><br>
 
 ## 🔧 **Kurulum & Çalıştırma**
 
@@ -145,7 +161,11 @@ python main.py
 0 - Çıkış
 ```
 
----
+<br><br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
+</div>
+<br><br>
 
 ## 📂 **Proje Dosya Yapısı**
 
