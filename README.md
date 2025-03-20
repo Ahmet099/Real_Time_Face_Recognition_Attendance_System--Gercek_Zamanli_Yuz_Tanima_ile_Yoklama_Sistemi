@@ -1,8 +1,9 @@
-# 🎭 **Gerçek Zamanlı Yüz Tanıma ile Yoklama Sistemi**
+# **Gerçek Zamanlı Yüz Tanıma ile Yoklama Sistemi**
 
-> **📌 Yapay zeka destekli yüz tanıma & SQLite veritabanı ile gelişmiş yoklama sistemi!**  
-> **📸 Kameradan otomatik öğrenci tanıma & yoklama kaydetme, manuel ekleme & Excel'e aktarma özellikleri!**  
-> **🔥 Tüm yoklamalar ayrı tablolar halinde kaydedilir & geriye dönük sorgulanabilir!**  
+- **📌 Yapay zeka destekli yüz tanıma & SQLite veritabanı ile gelişmiş yoklama sistemi!**  
+- **📸 Kameradan otomatik öğrenci tanıma & yoklama kaydetme, manuel ekleme & Excel'e aktarma özellikleri!** 
+- **🎙️ Tamamen SES ile kontrol edilebilir!** 
+- **🔥 Tüm yoklamalar ayrı tablolar halinde kaydedilir & geriye dönük sorgulanabilir!**  
 
 ---
 
@@ -19,14 +20,36 @@
 <br><br>    
 
 
+---
+
 ## 🚀 **Özellikler**
 
-✅ **Gerçek Zamanlı Yüz Tanıma** – Kamera ile öğrenci yüzlerini algılar ve **otomatik yoklama alır!**  
-✅ **Tam Veritabanı Desteği** – **Öğrenciler ve yoklamalar SQLite'de saklanır, geçmiş yoklamalara erişilebilir.**  
-✅ **Dinamik Yoklama Tabloları** – **Her ders için yeni yoklama tablosu otomatik oluşturulur.**  
-✅ **Manuel Yoklama Ekleme & Düzeltme** – **Öğrencileri yoklamaya elle ekleyebilir/silebiliriz!**  
-✅ **Tüm Yoklamaları Listeleme** – **Bugüne kadar alınan tüm yoklamalar tek bir komutla listelenebilir.**  
-✅ **Excel’e Aktarma** – **Yoklama tabloları Excel formatında dışa aktarılabilir!**  
+- ✅ **Gerçek Zamanlı Yüz Tanıma** – Kamera ile öğrenci yüzlerini algılar ve **otomatik yoklama alır!**  
+- ✅ **Sesli Komut Sistemi** – **Tamamen sesle yönetilebilen bir asistan entegre edildi!**  
+- ✅ **Tam Veritabanı Desteği** – **Öğrenciler ve yoklamalar SQLite'de saklanır, geçmiş yoklamalara erişilebilir.**  
+- ✅ **Dinamik Yoklama Tabloları** – **Her ders için yeni yoklama tablosu otomatik oluşturulur.**  
+- ✅ **Manuel Yoklama Ekleme & Düzeltme** – **Öğrencileri yoklamaya elle ekleyebilir/silebiliriz!**  
+- ✅ **Tüm Yoklamaları Listeleme** – **Bugüne kadar alınan tüm yoklamalar tek bir komutla listelenebilir.**  
+- ✅ **Excel’e Aktarma** – **Yoklama tabloları Excel formatında dışa aktarılabilir!**  
+- ✅ **Vikipedi & Hava Durumu Desteği** – **Sistem, hava durumu bilgisini verebilir & Wikipedia'dan özet bilgiler çekebilir!**  
+
+<br><br> 
+
+---
+
+## 🔊 **YENİ ÖZELLİK: Sesli Asistan Entegrasyonu!** 🎤
+
+Projeye tamamen **sesli asistan entegrasyonu** eklendi! Artık sistemle konuşarak işlem yapabilirsiniz!  
+
+### 🎙 **Örnek Komutlar:**
+
+✅ **Gerçek zamanlı yoklama al →** "Şimdi yoklama al", "Sınıfta yoklama yap", "Yüz tanıma ile yoklama başlat"  
+✅ **Öğrenci kaydı yap →** "Yeni öğrenci ekle", "Öğrenci kaydet", "Sisteme öğrenci ekleyelim"  
+✅ **Saat kaç? →** "Bana saati söyler misin?", "Şu an saat kaç?"  
+✅ **Bugün hava nasıl? →** "Bugün hava nasıl?", "İstanbul’da hava kaç derece?", "Hava durumu nedir?"  
+✅ **Vikipedi’den bilgi ver →** "Yapay zeka hakkında bilgi ver", "Vikipedi’de kuantum mekaniği ara"  
+✅ **Menüyü yönet →** "Bir numaralı işlemi çalıştır", "5. seçeneği seç", "Tüm yoklama tablolarını göster"  
+✅ **Q tuşuna basarak anında çıkabilirsiniz!**  
 
 ---
 
@@ -38,8 +61,13 @@
 - **NumPy** – Matematiksel işlemler için  
 - **SQLite** – **Hafif & entegre veritabanı yönetimi**  
 - **Pandas** – **Verileri analiz etmek & Excel'e aktarmak için**  
-- **OpenPyXL** – **Excel dosyaları oluşturmak için**
+- **OpenPyXL** – **Excel dosyaları oluşturmak için**  
+- **SpeechRecognition** – **Sesli komutları algılamak için**  
+- **pyttsx3** – **Asistanın konuşmasını sağlamak için**  
+- **Wikipedia-API** – **Vikipedi’den veri çekmek için**  
+- **Requests** – **Hava durumu verisi almak için**  
 
+---
 <br><br>
 <div align="center">
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
